@@ -1,0 +1,5 @@
+RAILS
+Rails is an MVC arcitecture (Model View Controller)
+Models -> Databases
+Views -> Webpages
+Controller -> The brains
